@@ -1,1 +1,1 @@
-# phonebook-project
+# mini-project
